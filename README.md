@@ -1,3 +1,4 @@
+![ufo-sighting](https://user-images.githubusercontent.com/78116599/118347994-a0092400-b58a-11eb-8bdf-fccd4a102635.jpg)
 ![Alien](https://user-images.githubusercontent.com/78116599/118347884-b95da080-b589-11eb-8bc3-dd84a830d863.jpg)
 # JavaScript Homework - JavaScript and DOM Manipulation
 
