@@ -1,3 +1,4 @@
+![Alien](https://user-images.githubusercontent.com/78116599/118347884-b95da080-b589-11eb-8bc3-dd84a830d863.jpg)
 # JavaScript Homework - JavaScript and DOM Manipulation
 
 ## Background
